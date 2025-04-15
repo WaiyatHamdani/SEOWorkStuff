@@ -1,8 +1,10 @@
 # All blog site for web 2.0
-https://jiliblog.com
-https://www.blogger.com
-reddit
-https://www.livejournal.com
+## https://jiliblog.com
+## https://www.blogger.com
+## reddit
+## https://www.livejournal.com
+
+
 
 ### BloggingWebsite
 https://financeguruseoha.blogspot.com/2025/04/how-gameappslot-became-my-easy-side.html
